@@ -49,6 +49,6 @@ html_static_path = ['_static']
 
 html_theme_options = {
   "external_links": [
-      {"name": "Developer docs", "url": "https://bananacliet.rtfd.io"},
+      {"name": "Developer docs", "url": "https://bananaclient.rtfd.io"},
   ]
 }
