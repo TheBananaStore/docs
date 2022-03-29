@@ -43,3 +43,12 @@ html_theme = 'pydata_sphinx_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+
+
+
+html_theme_options = {
+  "external_links": [
+      {"name": "Developer docs", "url": "https://bananacliet.rtfd.io"},
+  ]
+}
