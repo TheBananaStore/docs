@@ -8,7 +8,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The Banana Store'
-copyright = '2022, The banana Team'
+copyright = '2022, The Banana Team'
 author = 'Alexey Pavlov, Grimet'
 
 # The full version, including alpha/beta/rc tags
